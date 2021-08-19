@@ -15,5 +15,5 @@
 
 
 
-@seawavve. 
-웹크롤링 > face detection > face estimation > normalization
+@seawavve.   
+웹크롤링 > face detection > face estimation > normalization. 
